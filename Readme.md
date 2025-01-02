@@ -1,0 +1,1 @@
+Apenas um local para subir meus projetos em SQL, Python e PowerBI
